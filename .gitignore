@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+.firebase/
+.firebaserc
+node_modules/
+
